@@ -12,3 +12,4 @@ const N = "-8";
 const M = "20";
 const sum = findSumOfNumbersFromNtoM(N, M);
 console.log(sum);
+//# sourceMappingURL=findSumOfNumbersFromNtoM.js.map

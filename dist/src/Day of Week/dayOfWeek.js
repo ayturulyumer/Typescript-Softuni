@@ -34,3 +34,4 @@ printDayOfWeekNumber("Friday");
 printDayOfWeekNumber("Saturday");
 printDayOfWeekNumber("Sunday");
 printDayOfWeekNumber("RANDOMSTUFF");
+//# sourceMappingURL=dayOfWeek.js.map
